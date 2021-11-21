@@ -15,7 +15,7 @@ int main()
 	cout << "Number of training stages:" << w->count_era << "\n";
 	while (1)
 	{
-		cout << "Input your filename: ";
+		cout << "Input your filename: MAKS_LOH.txt";
 		cin >> filename;
 		if (filename == "0")
 			break;
